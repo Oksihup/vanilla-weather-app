@@ -65,3 +65,12 @@ li:first-letter {
   padding-left: 6px;
   vertical-align: top;
 }
+
+.weather-temperature .active {
+  color: black;
+  cursor: default;
+  text-decoration: none;
+}
+.weather-temperature .active:hover {
+  text-decoration: none;
+}
